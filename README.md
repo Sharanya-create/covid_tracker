@@ -2,6 +2,8 @@
 
 **This is a react application built using material UI concepts.**
 
+The react app is compatible with all sizes of screens and provides global and country COVID-19 Data from mathro covid data API. Different components such as bar charts,cards and linecharts are used, provided by material UI and react-chartjs-2.
+
 ### SETUP
 
 1. install nodejs

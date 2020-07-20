@@ -2,7 +2,7 @@
 
 **This is a react application built using material UI concepts.**
 
-##SETUP
+### SETUP
 
 1. install nodejs
 2.npm create react app (after entering inside the project folder)
